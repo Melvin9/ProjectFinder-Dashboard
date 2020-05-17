@@ -205,11 +205,12 @@ iframe {
 
 .contact100-form-title {
   display: block;
+  font-family:  Montserrat-Black;
+  padding-bottom: 30px;
   width: 100%;
   font-size: 25px;
-  color: #333333;
+  color: #575757;
   text-align: center;
-  padding-bottom: 10px;
 }
 
 
